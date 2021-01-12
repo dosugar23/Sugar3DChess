@@ -1,7 +1,8 @@
+# Simple 3D Chess
 # sugar666chess
-# Author: Bao Nguyen
-# Phone Number: (+84)905168140
-## Simple 3D Chess
+## Author: Bao Nguyen
+## Phone Number: (+84)905168140
+
 
 ## A simple (and not complete) 3D chess game using JavaScript and Three.js, can play with another players
 
