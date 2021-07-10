@@ -12,5 +12,5 @@ This simple 3D chess game is made for a 3D Programming courses, which is a unive
 The game ends when a player captures the opponent's king.
 ### Installtion
 You can pull or manually download this project into your computer. Next step, you can copy the whole project folder and throw it in the "htdocs" folder of "Xampp" (or any local host server applications). Finally, you need to start the the vitrual server and start the "chess.html" file to play
-Thanks for reading this! This is 24 hours rush of me to research for algorithms and learn again the whole 3D world to finish this project. 
+
 #ENJOY! 
